@@ -1,4 +1,4 @@
-# Performance-Testing2
+# Performance-Testing with JMeter Recording 
 
 Tested website name: JPet Store Demo Website
 
